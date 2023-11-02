@@ -43,3 +43,7 @@ putpixel(x,y,2);
 P0=P0+2*dy-dx*2; 
 } 
 } 
+etch(); 
+closegraph(); 
+return 0; 
+} 
